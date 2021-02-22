@@ -9,7 +9,7 @@
 .Ruserdata
 
 # Rproj
-*.Rproj
+
 .Rproj.user
 
 data_raw
