@@ -8,8 +8,15 @@
 # User-specific files
 .Ruserdata
 
+
 # Rproj
 
 .Rproj.user
+
+
+#rPROJ
+
+.Rproj.user
+
 
 data_raw
